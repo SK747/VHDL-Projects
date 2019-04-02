@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="Lab6">
+		<CBX_INST_ENTRY INSTANCE_NAME="|Lab6|decrypted_RAM:u1|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_6rh1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Lab6|encrypted_ROM:u2|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_7te1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Lab6|s_memory:u0|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_lrh1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab6|lpm_divide:Mod0" CBX_FILE_NAME="lpm_divide_qlo.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
